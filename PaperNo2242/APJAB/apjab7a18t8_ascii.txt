@@ -1,0 +1,8 @@
+Table 8 
+Parameters of the Gaussian Distributions for log (T_50) and log (T_90)
+
+
+	mu (short)	sigma (short)	w (short)	mu (long)	sigma (long)	w (long)	
+T_50	-0.618 ($\to 0.241$ s)	0.265	0.189	0.995 ($\to 9.89$ s)	0.265	0.811	
+T_90	0.0208 ($\to 1.05$ s)	0.367	0.245	1.476 ($\to 29.9$ s)	0.189	0.755	
+Note. We display the actual mean duration in parentheses (=10^mu). Note that for the T_50 distribution the fitting procedure yields a solution where the variances of the two components are equal, thus reducing the number of degrees of freedom.
