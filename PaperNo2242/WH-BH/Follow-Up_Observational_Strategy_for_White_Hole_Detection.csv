@@ -1,0 +1,6 @@
+Wavelength Band,Primary Target,Best Observational Instruments,Detection Criteria
+Radio,Persistent synchrotron-like emissions near GRB remnants,"ALMA, VLA, SKA (radio surveys of GRB remnants)",Detection of non-thermal radio emissions with atypical linear polarization
+Infrared,High circular polarization in excess of known thermal sources,"JWST-MIRI, ELT-MICADO (infrared polarization studies)",Infrared sources displaying anomalous circular polarization >5%
+Optical,Unusual gravitational lensing distortions in transient events,"Rubin-LSST, Hubble, FORS2-VLT (optical lensing searches)",Optical signals showing excess polarization in strong gravitational fields
+X-ray,Short-lived X-ray flashes with unexpected polarization swings,"IXPE, AstroSat (X-ray transient polarization monitoring)",Transient X-ray flashes with time-variable polarization angles
+Gamma-ray,Isolated high-energy bursts exceeding GRB polarization norms,"POLAR-II, Fermi-GBM, CTA (gamma-ray burst polarization analysis)",Gamma-ray bursts with polarization exceeding 30% without standard jet alignment
