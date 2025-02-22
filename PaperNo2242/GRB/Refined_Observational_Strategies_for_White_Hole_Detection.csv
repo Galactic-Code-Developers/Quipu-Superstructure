@@ -1,0 +1,7 @@
+Observation Type,Expected White Hole Signature,Best Telescopes & Detectors,Best Search Method
+Radio,Persistent synchrotron radiation from escaping charged particles,"ALMA, VLA, SKA","Look for weak, persistent radio sources near GRB remnants"
+Infrared,Thermal radiation from mass-energy release,"JWST, Spitzer, ELT",Identify thermal sources without a known supernova origin
+Optical,Weak unless lensing enhances visibility,"Hubble, Rubin Observatory, LSST",Survey lensing effects around high-energy bursts
+X-ray,Short-duration bursts similar to GRBs,"Chandra, XMM-Newton, NICER",Detect isolated X-ray flashes with no progenitor
+Gamma-ray,High-energy vacuum radiation bursts,"Fermi, CTA, HESS, LHAASO",Search for non-GRB gamma-ray bursts with unique spectra
+Gravitational Waves,Possible signal from event horizon transition,"LIGO, Virgo, Einstein Telescope",Monitor for quantum gravitational anomalies in high-sensitivity detectors

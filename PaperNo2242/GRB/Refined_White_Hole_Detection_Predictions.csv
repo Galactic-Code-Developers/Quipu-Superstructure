@@ -1,0 +1,5 @@
+Equation,Mathematical Representation
+Gravitational Wave Signal Template,"Eq(h(f), A_0*exp(-f/f_c))"
+Non-Merger Decay Law,"Eq(h(t), A_0*exp(-t/tau_wh))"
+Polarization Fraction Justification,"Eq(P_wh, 0.3)"
+White Hole Event Rate Estimation,"Eq(N_wh, R_wh*V_LISA)"

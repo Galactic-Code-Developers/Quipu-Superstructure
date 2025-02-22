@@ -1,0 +1,4 @@
+Energy Band,Observed RMSE (s),Predicted RMSE (s),Correlation Coefficient (r),Refined RMSE (s),Refined RMSE (s) - keV Adjusted
+Low (keV),190.35,175.0,0.95,1.3382236631205534e+23,1.3383173411343749e+23
+Medium (MeV),45.21,38.5,0.92,1.3383139268590254e+23,1.3386783960882627e+23
+High (GeV),6.12,7.3,0.97,1.3387409982670255e+23,1.340386681720263e+23

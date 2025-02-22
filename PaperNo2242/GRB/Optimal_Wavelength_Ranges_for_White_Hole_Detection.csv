@@ -1,0 +1,6 @@
+Wavelength Band,Expected White Hole Signature,Best Observational Instruments
+Radio,Persistent synchrotron emission from escaping particles,"ALMA, VLA, SKA"
+Infrared,Thermal radiation from matter release at event horizon,"JWST, Spitzer"
+Optical,Weak emission unless gravitational lensing enhances light,"Hubble, Rubin Observatory"
+X-ray,Strong emission from sudden bursts (similar to GRBs),"Chandra, XMM-Newton, NICER"
+Gamma-ray,High-energy bursts due to quantum vacuum radiation release,"Fermi, CTA, HESS, LHAASO"

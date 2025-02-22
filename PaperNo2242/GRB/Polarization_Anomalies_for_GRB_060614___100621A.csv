@@ -1,0 +1,6 @@
+Emission Band,Expected Polarization Anomaly,Best Instruments for Polarization Detection,White Hole Signature Confirmation
+Radio,High linear polarization from synchrotron escape,"VLA, ALMA, SKA (radio polarization surveys)",Persistent polarized radio signal unrelated to known synchrotron models
+Infrared,Unusually strong circular polarization from exotic radiation processes,"JWST-MIRI, ELT-MICADO (infrared polarimetry)",Circular polarization exceeding 5-10% suggests exotic matter ejection
+Optical,Weak unless gravitational lensing distorts polarization,"Hubble, Rubin-LSST, FORS2-VLT (optical polarimetry)",Unusual optical lensing effects supporting non-standard spacetime evolution
+X-ray,"Rapid swings in polarization angle, inconsistent with jet models","IXPE (X-ray polarization), AstroSat (polarization monitoring)",X-ray polarization variations inconsistent with standard jet models
+Gamma-ray,High-energy polarization inconsistent with known GRB mechanisms,"POLAR-II (gamma-ray polarization), Fermi-GBM (high-energy polarimetry)",Gamma-ray polarization exceeding 30% suggests unknown emission physics
