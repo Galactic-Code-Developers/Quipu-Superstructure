@@ -9,3 +9,10 @@ You can access datasets for the Shapley, Serpens-Corona Borealis, Hercules, and 
 **NASA Extragalactic Database (NED)** – Contains data on extragalactic objects, including superclusters. Search here: NED
 
 **Sloan Digital Sky Survey (SDSS)** – Provides optical survey data for galaxy distributions within these superclusters: [SDSS](<https://www.sdss.org/>)
+
+## License
+
+[![Creative Commons License](<https://i.creativecommons.org/l/by/4.0/88x31.png>)](https://creativecommons.org/licenses/by/4.0/)
+
+Copyright © 2019-2025 [Galactic Code Developers](<https://gist.github.com/ChrisTollefson/](https://github.com/Galactic-Code-Developers>)
+
