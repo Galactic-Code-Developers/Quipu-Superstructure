@@ -1,5 +1,7 @@
 # Quipu-Superstructure
 
+![](<images/estructura-mas-grande-universo-quipu-1739079916541_512.jpeg>)
+
 You can access datasets for the Shapley, Serpens-Corona Borealis, Hercules, and Sculptor-Pegasus superclusters from the following sources:
 
 **SRG/eROSITA All-Sky Survey** – This survey provides a catalog of superclusters, including Shapley. Data and publications can be accessed here: [arxiv.org](<https://arxiv.org/abs/2402.08454>)
