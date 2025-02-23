@@ -3,7 +3,7 @@
 Spanning over 400 megaparsecs <em>(~1.3 billion light-years)</em> and containing an estimated mass of about 2×10¹⁷ solar masses, Quipu was identified by analyzing matter density distributions using X-ray observations of galaxy clusters within a distance range of 130 to 250 megaparsecs.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Quipu-Superstructure/refs/heads/main/images/Quipu-superstructure.png)"
+<img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Quipu-Superstructure/refs/heads/main/images/Quipu-superstructure.png"
 size=""/>
 </div>
 
