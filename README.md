@@ -3,6 +3,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Quipu-Superstructure/refs/heads/main/images/wedge_diagram_superstructure_642.jpg"/>
 
+</div>
 You can access datasets for the Shapley, Serpens-Corona Borealis, Hercules, and Sculptor-Pegasus superclusters from the following sources:
 
 **SRG/eROSITA All-Sky Survey** – This survey provides a catalog of superclusters, including Shapley. Data and publications can be accessed here: [arxiv.org](<https://arxiv.org/abs/2402.08454>)
