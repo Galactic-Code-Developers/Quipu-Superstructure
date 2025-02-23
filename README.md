@@ -9,6 +9,10 @@ height="500px"/>
 
 This colossal structure comprises about **45%** of galaxy clusters, **30%** of galaxies, and **25%** of the universe's matter while occupying only 13% of its volume. The discovery of Quipu has important implications for cosmology, including possible modifications of the cosmic microwave background through the integrated Sachs-Wolfe effect and influences on measurements of the Hubble constant.
 
+div align="center">
+<img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Quipu-Superstructure/refs/heads/main/images/wedge_diagram_superstructure_642.jpg"/>
+</div>
+
 The study of such superstructures is also crucial for understanding the environmental dependence of galaxy evolution and testing the accuracy of cosmological models.
 
 # Datasets
