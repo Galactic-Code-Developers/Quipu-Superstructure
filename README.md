@@ -1,6 +1,7 @@
 # Quipu-Superstructure
 
-![](<images/estructura-mas-grande-universo-quipu-1739079916541_512.jpeg>)
+<div align="center">
+<img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Quipu-Superstructure/refs/heads/main/images/images/wedge_diagram_superstructure_642.jpg"/>
 
 You can access datasets for the Shapley, Serpens-Corona Borealis, Hercules, and Sculptor-Pegasus superclusters from the following sources:
 
